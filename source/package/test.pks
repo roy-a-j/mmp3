@@ -1,1 +1,2 @@
-hei
+create or replace package test
+
